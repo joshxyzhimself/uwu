@@ -30,9 +30,6 @@ export interface error {
   name: string,
   message: string,
   stack: string,
-  got_response_status_code?: unknown,
-  got_response_status_message?: unknown,
-  got_response_body?: unknown,
   [key:string]: unknown,
 }
 

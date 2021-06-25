@@ -5,7 +5,7 @@ uwebsockets utilities
 ## usage
 
 ```
-yarn add uwu@joshxyzhimself/uwu#v0.1.1
+yarn add uwu@joshxyzhimself/uwu#v0.1.2
 ```
 
 ```js
