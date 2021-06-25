@@ -1,0 +1,16 @@
+{
+  "name": "uwu",
+  "version": "0.1.0",
+  "description": "uwebsockets utilities",
+  "repository": "git@github.com:joshxyzhimself/uwu.git",
+  "author": "joshxyzhimself <joshxyzhimself@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  },
+  "dependencies": {
+    "got": "^11.8.2",
+    "mime-types": "^2.1.31",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v19.2.0"
+  }
+}
